@@ -1,4 +1,1 @@
-numpy
-pandas
-scikit-learn
-joblib
+numpyecho pandasecho scikit-learnecho joblib
