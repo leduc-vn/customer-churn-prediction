@@ -1,1 +1,4 @@
-numpyecho pandasecho scikit-learnecho joblib
+numpy
+pandas
+scikit-learn
+joblib
